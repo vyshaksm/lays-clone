@@ -1,0 +1,356 @@
+body{
+    background-color: orange;
+    margin: 0;
+}
+.orange{
+    margin: 90px;
+}
+img{
+    width: 1170px;
+    height: 425px;
+}
+.img2{
+    background: url(https://www.lays.com/sites/lays.com/themes/lays/img/bg-products.jpg?1);
+    width: 1170px;
+    height: 771px;
+    position: relative;
+    bottom: 60px;
+}
+.prolays{
+    width: 1010px;
+    height: 1010px;
+    padding-left: 75px;
+}
+.pro{
+    width: 1010px;
+    height: 95px;
+   font-size: 95px;
+    font-family: 'MarkOT-Bold', sans-serif;
+    color: white;
+}
+.laysfont{
+    width: 1010px;
+    height: 636px;
+}
+.laysimg1{
+    width: 1010px;
+    height: 336px;
+}
+.lamg{
+    width: 336px;
+    height: 336px;
+}
+.aa{
+    float: left;
+    width: 336px;
+    height: 336px;
+}
+.bfont{
+    font-family: 'MarkOT-Bold', sans-serif;
+    color:white;
+    font-size: 35px;
+    margin: 0;
+}
+.font1{
+    width: 336px;
+    height: 200px;
+    float: left;
+
+    background-color:#f8931f;
+}
+.sfont{
+    font-family: 'MarkOT-Bold', sans-serif;
+    color:white;
+    font-size: 22px; 
+    margin: 0;
+}
+.font{
+    width: 1008px;
+    height: 180px;
+    margin: 0;
+}
+.fontdiv{
+    width:300px;
+    height: 45px;
+    padding-left: 20px;
+    padding-top: 20px;
+}
+.font2{
+    width: 336px;
+    height: 200px;
+    float: left;
+    background-color:#83d8ee;
+    margin: 0;
+}
+.font3{
+    width: 336px;
+    height: 200px;
+    float: left;
+    background-color:#383a6f;
+}
+.fontdiv1{
+    width: 300px;
+    height: 40px;
+    padding-bottom: 40px;
+    padding-left: 20px;
+}
+
+.img3{
+    width: 1170px;
+    height: 771px;
+    position: relative;
+    bottom: 120px;
+}
+.butt{
+    width: 80px;
+    height: 30px;
+    border-radius: 20px;
+    color: white;
+    background-color: red;
+    border: 0;
+
+}
+.tab{
+    width: 1170px;
+    height: 92px;
+    background-color: #ffe600;
+    position: relative;
+    bottom: 30px;
+}
+.logo1{
+    float: left;
+    width: 92px;
+    height: 92px;
+    padding-left: 20px;
+}
+
+.list{
+    display: inline-block;
+    color: black;
+    font-size: 18px;
+    font-weight: 700;
+    height: 20px;
+    list-style: none;
+    font-family: 'MarkOT-Bold', sans-serif;
+    text-align: center;
+    border-radius: 40px;
+   margin-left: 30px;
+}
+li:hover{
+    background-color: red;
+}
+.tabli{
+    float: left;
+    position: relative;
+    top: 22px;
+    margin-left: 100px;
+   
+}
+.search{
+    float: left;
+    padding-top: 20px;
+}
+.yellow{
+    position: relative;
+    bottom: 100px;
+   height: 170px;
+    background-image: url(https://www.mashed.com/img/gallery/lays-new-mashup-flavors-combine-these-popular-products/intro-1627385921.webp);
+    padding-left: 75px;
+}
+.yellow1{
+    background-color: #f6be07;
+    height: 560px;
+   
+}
+.yellowimg1{
+    float: left;
+    width: 300px;
+    height: 268px;
+    padding-left: 75px;
+}
+.pois{
+    position: relative;
+    bottom: 100px;
+}
+.table{
+    height: 176px;
+}
+.table1{
+    background-color:#ffe600;
+    width: 300px;
+    float: left;
+    height: 184px;
+    font-family: 'MarkOT-Bold', sans-serif;
+    font-size: 23px;
+    margin-left: 75px;
+}
+.view{
+    width: 120px;
+    height: 30px;
+    border-radius: 25px;
+    color: white;
+    background-color: red;
+    border: 0;
+    position: relative;
+    left: 10px;
+}
+.h{
+    padding-left: 10px;
+}
+.gimg{
+    background: url(img/Stax\ SCO.png);
+    width: 1170px;
+    height: 600px;
+    float: left;
+    position: relative;
+    top: 150px;
+}
+.videoword{
+    width: 1170px;
+    height: 385px;
+    position: relative;
+    bottom: 80px;
+    padding-left: 75px;
+}
+.video{
+    float: left;
+    width: 670px;
+    height: 383px;
+}
+#v{
+    position: relative;
+    bottom: 50px;
+    padding-left: 75px;
+}
+   
+.bimg{
+    float: left;
+    background-image: url(img/XL\ Poppables\ Sea\ Salt\ copy.png);
+    width: 1170px;
+    height: 578px;
+    position: relative;
+    top: 180px;
+}
+.images6{
+    padding-left: 75px;
+    width: 1060px;
+    height: 320px;
+}
+.a1{
+    float: left;
+    width: 320px;
+    height: 320px;
+}
+.v{
+    text-align: center;
+    position: relative;
+    top: 170px;
+}
+.q{
+    width: 320px;
+    height: 320px; 
+}
+.w{
+    width: 160px;
+    height: 160px;
+    
+}
+.first{
+    float: left;
+    width: 160px;
+    height: 320px;
+    margin-left: 14px;
+}
+.second{
+    float: left;
+    width: 160px;
+    height: 320px;
+    margin-left: 14px;
+}
+.r{
+    width: 150px;
+    height: 150px;
+}
+.a2{
+    float: left;
+    width: 360px;
+    height: 320px;
+    position: relative;
+    top: 5px;
+}
+.get{
+    padding-left: 75px;
+    height: 95px;
+    position: relative;
+    bottom: 50px;
+}
+.last{ float: left;
+    width: 1170px;
+    height: 174px;
+    background-image: url(img/bg-contactus-en.jpg);
+    position: relative;
+    top: 200px;
+    
+}
+.list2{
+    display: inline-block;
+    color: black;
+    font-size: 15px;
+    font-weight: 300;
+    list-style: none;
+    font-family: 'MarkOT-Bold', sans-serif;
+   margin-left: 20px;
+}
+.foot{
+    text-align: center;
+    position: relative;
+    top: 235px;
+    width: 1170px;
+    height: 38px;
+
+}
+.lastlogo{
+    width: 1170px;
+    height: 90px;
+    position: relative;
+    top: 280px;
+}
+.logo2{
+    padding-left: 250px;
+    width: 90px;
+    height: 90px;
+}
+.final{
+    height: 12px;
+    width: 1170px;
+    position: relative;
+    top: 400px;
+    left: 20px;
+}
+.final1{
+    text-align: center;
+    font-family: 'MarkOT', sans-serif;
+    font-size: 12px;
+    padding-right: 100px;
+}
+a{
+    text-decoration: none;
+}
+li:hover{
+    background-color: red;
+}
+.imglogos{
+    width: 572.7px;
+    height: 174px;
+}
+.logolink{
+    width: 85.92px;
+    height: 85.92px;
+}
+.lo{
+    float: left;
+    position: relative;
+    left: 507px;
+    top: 44px;
+    margin-right: 57px;
+}
